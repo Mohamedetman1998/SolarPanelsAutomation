@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PanelsDistribute</Name>
+		<Assembly>PanelsDistribute.dll</Assembly>
+		<AddInId>
+			94414787-4C4C-4DF6-A070-CDB4B0EFCDD9
+		</AddInId>
+		<FullClassName>PanelsDistribute.Application.App</FullClassName>
+		<Text>PanelsDistribute</Text>
+		<Description>Distrubting Panels</Description>
+		<VendorId>3SixT</VendorId>
+		<VendorDescription>@3SixT</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
